@@ -4,7 +4,7 @@ This is a simple Laravel web application for task management. It allows you to c
 
 ## Requirements
 
-- PHP 7.4 or higher
+- PHP 8.0 or higher
 - Laravel 8.x
 - MySQL database
 
